@@ -1,16 +1,24 @@
-## Hi there 👋
+# Bachar Al Boustani
 
-<!--
-**bachar-developer/bachar-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full Stack en formación.
 
-Here are some ideas to get you started:
+## Tecnologías y áreas de interés
+- Python
+- SQL
+- SQLAlchemy (ORM)
+- Git & GitHub
+- Linux
+- Programación orientada a objetos (POO)
+- Principios SOLID
+- Backend y automatización
+- Arquitectura de datos e IA aplicada
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Objetivo
+Construir herramientas útiles orientadas a automatización, datos y backend.
+
+
+## Actualmente
+- Aprendiendo SQL avanzado y ORM
+- Mejorando arquitectura backend
+- Practicando Linux, Git y automatización
