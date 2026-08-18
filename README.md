@@ -7,6 +7,7 @@ Desarrollador Full Stack en formación.
 - SQL
 - SQLAlchemy (ORM)
 - Git & GitHub
+- Java
 - Linux
 - Programación orientada a objetos (POO)
 - Principios SOLID
